@@ -1,18 +1,13 @@
 {
-    "name": "Cheems-Bot-MD",
-    "version": "13.0.0",
-    "description": "Whatsapp Bot By DGXeon",
+    "name": "WaziumBot",
+    "version": "1.0",
+    "description": "Whatsapp Bot By Lrndwy",
     "main": "index.js",
     "type": "commonjs",
-    "directories": {
-        "lib": "lib",
-        "src": "src",
-        "media": "XeonMedia"
-    },
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "lrndwy",
     "license": "MIT",
     "dependencies": {
         "@hapi/boom": "^10.0.1",
